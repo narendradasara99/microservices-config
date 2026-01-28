@@ -1,0 +1,5 @@
+server:
+  port: 8082
+
+app:
+  message: Welcome to PAYMENT SERVICE from CONFIG SERVER
