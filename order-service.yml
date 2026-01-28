@@ -2,4 +2,4 @@ server:
   port: 8081
 
 app:
-  message: Welcome to ORDER SERVICE from CONFIG SERVER
+  message: Welcome to ORDER SERVICE from CONFIG SERVER narendra
