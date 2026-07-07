@@ -1,1 +1,2 @@
-app.message="hello"
+app:
+  message: Welcome to API GATEWAY from CONFIG SERVER
